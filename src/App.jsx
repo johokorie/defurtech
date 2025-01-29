@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      <p>Defur Technologies</p>
+      <h1>Defur Technologies Limited</h1>
     </div>
   )
 }
